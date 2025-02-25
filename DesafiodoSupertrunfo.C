@@ -75,37 +75,6 @@ int main(){
         printf("Numero de pontos turisticos\n");
         scanf( " %i", &pontoturistico4);
         printf("\n"); 
-        //Abaixo trouxe os valores fornecidos pelo jogador de cada cidade do Estado A. 
-
-        printf(" Dados da cidade: A01\n");
-        printf("Numero da população: %f\n", populacao1 );
-        printf("Area da cidade: %f %s \n", area1,quilometros );
-        printf("PIB: %f %s\n", pib1,dinheiro);
-        printf("Numero de pontos turisticos: %i\n", pontoturistico1 );
-        
-        printf("\n"); // Só para deixar algo mais legal pro jogador ler as informações da cidade. 
-
-        printf(" Dados da cidade: A02\n");
-        printf("Numero da população: %f\n", populacao2 );
-        printf("Area da cidade: %f %s \n", area2,quilometros );
-        printf("PIB: %f %s\n", pib2,dinheiro);
-        printf("Numero de pontos turisticos: %i\n", pontoturistico2);
-
-        printf("\n"); // Só para deixar algo mais legal pro jogador ler as informações da cidade. 
-
-        printf(" Dados da cidade: A03\n");
-        printf("Numero da população: %f\n", populacao3 );
-        printf("Area da cidade: %f %s \n", area3,quilometros );
-        printf("PIB: %f %s\n", pib3,dinheiro);
-        printf("Numero de pontos turisticos: %i\n", pontoturistico3);
-
-        printf("\n"); // Só para deixar algo mais legal pro jogador ler as informações da cidade. 
-
-        printf(" Dados da cidade: A04\n");
-        printf("Numero da população: %f\n", populacao4);
-        printf("Area da cidade: %f %s \n", area4,quilometros );
-        printf("PIB: %f %s\n", pib4,dinheiro);
-        printf("Numero de pontos turisticos: %i\n", pontoturistico4);
 
         printf("\n"); // Só para deixar algo mais legal pro jogador ler as informações da cidade. :) 
 
@@ -170,34 +139,6 @@ int main(){
         scanf( " %i", &pontoturistico04);
         printf("\n");
         //
-        printf(" Dados da cidade: B01\n");
-        printf("Numero da população: %f\n", populacao01 );
-        printf("Area da cidade: %f %s \n", area01, quilometros);
-        printf("PIB: %f %s \n", pib01, dinheiro);
-        printf("Numero de pontos turisticos: %i\n", pontoturistico01 );
-        printf("\n");
-        //
-        printf(" Dados da cidade: B02\n");
-        printf("Numero da população: %f\n", populacao02 );
-        printf("Area da cidade: %f %s \n", area02, quilometros);
-        printf("PIB: %f %s \n", pib02, dinheiro);
-        printf("Numero de pontos turisticos: %i\n", pontoturistico02 );
-        printf("\n");
-    
-        printf(" Dados da cidade: B03\n");
-        printf("Numero da população: %f\n", populacao03 );
-        printf("Area da cidade: %f %s \n", area03, quilometros);
-        printf("PIB: %f %s \n", pib03, dinheiro);
-        printf("Numero de pontos turisticos: %i\n", pontoturistico03 );
-        printf("\n");
-    
-
-        printf(" Dados da cidade: B04\n");
-        printf("Numero da população: %f\n", populacao04 );
-        printf("Area da cidade: %f %s \n", area04, quilometros);
-        printf("PIB: %f %s \n", pib04, dinheiro);
-        printf("Numero de pontos turisticos: %i\n", pontoturistico04 );
-        printf("\n");
      
      printf("As informações do estado B foram conclidas com sucesso! \n");
      printf("No que diz respeito ao estado C sobre a cidade C01, responda:\n");
@@ -258,34 +199,6 @@ int main(){
  
      printf("Numero de pontos turisticos\n");
      scanf( " %i", &pontoturistico004);
-     printf("\n");
-     //
-     printf(" Dados da cidade: C01\n");
-     printf("Numero da população: %f\n", populacao001 );
-     printf("Area da cidade: %f %s \n", area001, quilometros);
-     printf("PIB: %f %s \n", pib001, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico001 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: C02\n");
-     printf("Numero da população: %f\n", populacao002 );
-     printf("Area da cidade: %f %s \n", area002, quilometros);
-     printf("PIB: %f %s \n", pib002, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico002 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: C03\n");
-     printf("Numero da população: %f\n", populacao003 );
-     printf("Area da cidade: %f %s \n", area003, quilometros);
-     printf("PIB: %f %s \n", pib003, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico003 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: C04\n");
-     printf("Numero da população: %f\n", populacao004 );
-     printf("Area da cidade: %f %s \n", area004, quilometros);
-     printf("PIB: %f %s \n", pib004, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico004 );
      printf("\n");
      //
      printf("As informações do estado C foram conclidas com sucesso! \n");
@@ -350,35 +263,6 @@ int main(){
      scanf( " %i", &pontoturistico0004);
      printf("\n");
      //
-
-     printf(" Dados da cidade: D01\n");
-     printf("Numero da população: %f\n", populacao0001 );
-     printf("Area da cidade: %f %s \n", area0001, quilometros);
-     printf("PIB: %f %s \n", pib0001, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico0001 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: D02\n");
-     printf("Numero da população: %f\n", populacao0002 );
-     printf("Area da cidade: %f %s \n", area0002, quilometros);
-     printf("PIB: %f %s \n", pib0002, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico0002 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: D03\n");
-     printf("Numero da população: %f\n", populacao0003 );
-     printf("Area da cidade: %f %s \n", area0003, quilometros);
-     printf("PIB: %f %s \n", pib0003, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico0003 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: D04\n");
-     printf("Numero da população: %f\n", populacao0004 );
-     printf("Area da cidade: %f %s \n", area0004, quilometros);
-     printf("PIB: %f %s \n", pib0004, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico0004 );
-     printf("\n");
-     //
      printf("As informações do estado D foram conclidas com sucesso! \n");
      printf("No que diz respeito ao estado E sobre a cidade E01, responda:\n");
      printf("\n");
@@ -439,35 +323,6 @@ int main(){
  
      printf("Numero de pontos turisticos\n");
      scanf( " %i", &pontoturistico00004);
-     printf("\n");
-     //
-
-     printf(" Dados da cidade: E01\n");
-     printf("Numero da população: %f\n", populacao00001 );
-     printf("Area da cidade: %f %s \n", area00001, quilometros);
-     printf("PIB: %f %s \n", pib00001, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico00001 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: E02\n");
-     printf("Numero da população: %f\n", populacao00002 );
-     printf("Area da cidade: %f %s \n", area00002, quilometros);
-     printf("PIB: %f %s \n", pib00002, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico00002 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: E03\n");
-     printf("Numero da população: %f\n", populacao00003 );
-     printf("Area da cidade: %f %s \n", area00003, quilometros);
-     printf("PIB: %f %s \n", pib00003, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico00003 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: E04\n");
-     printf("Numero da população: %f\n", populacao00004 );
-     printf("Area da cidade: %f %s \n", area00004, quilometros);
-     printf("PIB: %f %s \n", pib00004, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico00004 );
      printf("\n");
      //
      printf("As informações do estado E foram concluidas com sucesso! \n");
@@ -533,35 +388,6 @@ int main(){
      scanf( " %i", &pontoturistico000004);
      printf("\n");
      //
-
-     printf(" Dados da cidade: F01\n");
-     printf("Numero da população: %f\n", populacao000001 );
-     printf("Area da cidade: %f %s \n", area000001, quilometros);
-     printf("PIB: %f %s \n", pib000001, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico000001 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: F02\n");
-     printf("Numero da população: %f\n", populacao000002 );
-     printf("Area da cidade: %f %s \n", area000002, quilometros);
-     printf("PIB: %f %s \n", pib000002, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico000002 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: F03\n");
-     printf("Numero da população: %f\n", populacao000003 );
-     printf("Area da cidade: %f %s \n", area000003, quilometros);
-     printf("PIB: %f %s \n", pib000003, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico000003 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: F04\n");
-     printf("Numero da população: %f\n", populacao000004 );
-     printf("Area da cidade: %f %s \n", area000004, quilometros);
-     printf("PIB: %f %s \n", pib000004, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico000004 );
-     printf("\n");
-     //
      printf("As informações do estado F foram conclidas com sucesso! \n");
      printf("No que diz respeito ao estado G sobre a cidade G01, responda:\n");
      printf("\n");
@@ -623,35 +449,6 @@ int main(){
  
      printf("Numero de pontos turisticos\n");
      scanf( " %i", &pontoturistico0000004);
-     printf("\n");
-     //
-
-     printf(" Dados da cidade: G01\n");
-     printf("Numero da população: %f\n", populacao0000001 );
-     printf("Area da cidade: %f %s \n", area0000001, quilometros);
-     printf("PIB: %f %s \n", pib0000001, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico0000001 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: G02\n");
-     printf("Numero da população: %f\n", populacao0000002 );
-     printf("Area da cidade: %f %s \n", area0000002, quilometros);
-     printf("PIB: %f %s \n", pib0000002, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico0000002 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: G03\n");
-     printf("Numero da população: %f\n", populacao0000003 );
-     printf("Area da cidade: %f %s \n", area0000003, quilometros);
-     printf("PIB: %f %s \n", pib0000003, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico0000003 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: G04\n");
-     printf("Numero da população: %f\n", populacao0000004 );
-     printf("Area da cidade: %f %s \n", area0000004, quilometros);
-     printf("PIB: %f %s \n", pib0000004, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico0000004 );
      printf("\n");
      //
      printf("As informações do estado G foram conclidas com sucesso! \n");
@@ -717,35 +514,6 @@ int main(){
      scanf( " %i", &pontoturistico00000004);
      printf("\n");
      //
-
-     printf(" Dados da cidade: G01\n");
-     printf("Numero da população: %f\n", populacao00000001 );
-     printf("Area da cidade: %f %s \n", area00000001, quilometros);
-     printf("PIB: %f %s \n", pib00000001, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico00000001 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: G02\n");
-     printf("Numero da população: %f\n", populacao00000002 );
-     printf("Area da cidade: %f %s \n", area00000002, quilometros);
-     printf("PIB: %f %s \n", pib00000002, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico00000002 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: G03\n");
-     printf("Numero da população: %f\n", populacao00000003 );
-     printf("Area da cidade: %f %s \n", area00000003, quilometros);
-     printf("PIB: %f %s \n", pib00000003, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico00000003 );
-     printf("\n");
-     //
-     printf(" Dados da cidade: G04\n");
-     printf("Numero da população: %f\n", populacao00000004 );
-     printf("Area da cidade: %f %s \n", area00000004, quilometros);
-     printf("PIB: %f %s \n", pib00000004, dinheiro);
-     printf("Numero de pontos turisticos: %i\n", pontoturistico00000004 );
-     printf("\n");
-     //
      printf("Conclusão das propriedades das cartas concluidas.\n");
 
      //Fim do desafio "NOVATO" :P 
@@ -785,7 +553,6 @@ int main(){
     dencidadepopulacional000001 = (float) populacao000001 / area000001, dencidadepopulacional000002= (float) populacao000002 / area000002, dencidadepopulacinal000003= (float) populacao000003 / area000003, densidadepopulacional000004= (float) populacao000004 / area000004;
     dencidadepopulacional0000001 = (float) populacao0000001 / area0000001, dencidadepopulacional0000002= (float) populacao0000002 / area0000002, dencidadepopulacinal0000003= (float) populacao0000003 / area0000003, densidadepopulacional0000004= (float) populacao0000004 / area0000004;
     dencidadepopulacional00000001 = (float) populacao00000001 / area00000001, dencidadepopulacional00000002= (float) populacao00000002 / area00000002, dencidadepopulacinal00000003= (float) populacao00000003 / area00000003, densidadepopulacional00000004= (float) populacao00000004 / area00000004;
-
 
  printf("\n");
  printf("Expandindo sistema para adicionar propriedades calculadas \n");
@@ -1093,6 +860,259 @@ int main(){
  printf(" PIB Percapita %.3F %s por pessoa\n", capita00000004,dinheiro);
  printf("\n");
 
+// desafio Aventureiro concluido!!!!
 
+   // DESAFIO GRÃ MESTRE!!!
+
+   // Faço o jogar me dar o valor da densidade de trás para frente 
+printf("para calcularmos o valores das super cartas vamos precisar que você entre com as seguinte informação\n");
+  printf(" \n"); 
+  
+  printf("entre com o densidade populacional da cidade A01 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional1;
+  printf("entre com o densidade populacional da cidade A02 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional2;
+  printf("entre com o densidade populacional da cidade A03 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacinal3;
+  printf("entre com o densidade populacional da cidade A04 de trás para frente");
+  scanf("%.6f"), &densidadepopulacional4;
+  
+  
+  printf("entre com o densidade populacional da cidade B01 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional01;
+  printf("entre com o densidade populacional da cidade B02 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional02;
+  printf("entre com o densidade populacional da cidade B03 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacinal03;
+  printf("entre com o densidade populacional da cidade B04 de trás para frente");
+  scanf("%.6f"), &densidadepopulacional04;
+  
+  
+  printf("entre com o densidade populacional da cidade C01 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional001;
+  printf("entre com o densidade populacional da cidade C02 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional002;
+  printf("entre com o densidade populacional da cidade C03 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacinal003;
+  printf("entre com o densidade populacional da cidade C04 de trás para frente");
+  scanf("%.6f"), &densidadepopulacional004;
+  
+  
+  
+  printf("entre com o densidade populacional da cidade D01 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional0001;
+  printf("entre com o densidade populacional da cidade D02 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional0002;
+  printf("entre com o densidade populacional da cidade D03 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacinal0003;
+  printf("entre com o densidade populacional da cidade D04 de trás para frente");
+  scanf("%.6f"), &densidadepopulacional0004;
+  
+  
+  printf("entre com o densidade populacional da cidade E01 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional00001;
+  printf("entre com o densidade populacional da cidade E02 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional00002;
+  printf("entre com o densidade populacional da cidade E03 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacinal00003;
+  printf("entre com o densidade populacional da cidade E04 de trás para frente");
+  scanf("%.6f"), &densidadepopulacional00004;
+  
+  printf("entre com o densidade populacional da cidade F01 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional000001;
+  printf("entre com o densidade populacional da cidade F02 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional000002;
+  printf("entre com o densidade populacional da cidade F03 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacinal000003;
+  printf("entre com o densidade populacional da cidade F04 de trás para frente");
+  scanf("%.6f"), &densidadepopulacional000004;
+  
+  printf("entre com o densidade populacional da cidade G01 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional0000001;
+  printf("entre com o densidade populacional da cidade G02 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional0000002;
+  printf("entre com o densidade populacional da cidade G03 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacinal0000003;
+  printf("entre com o densidade populacional da cidade G04 de trás para frente");
+  scanf("%.6f"), &densidadepopulacional0000004;
+  
+  printf("entre com o densidade populacional da cidade H01 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional00000001;
+  printf("entre com o densidade populacional da cidade H02 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacional00000002;
+  printf("entre com o densidade populacional da cidade H03 de trás para frente");
+  scanf("%.6f"), &dencidadepopulacinal00000003;
+  printf("entre com o densidade populacional da cidade H04 de trás para frente");
+  scanf("%.6f"), &densidadepopulacional00000004;
+  
+  // Abaixo trago as variaveis do super poder 
+
+float A01;
+float A02;
+float A03;
+float A04;
+
+float B01;
+float B02;
+float B03;
+float B04;
+
+float C01;
+float C02;
+float C03;
+float C04;
+
+float D01;
+float D02;
+float D03;
+float D04;
+
+
+float E01;
+float E02;
+float E03;
+float E04;
+
+
+float F01;
+float F02;
+float F03;
+float F04;
+
+float G01;
+float G02;
+float G03;
+float G04;
+
+float H01;
+float H02;
+float H03;
+float H04;
+
+
+
+   A01=(float) populacao1 + area1 + pib1 + pontoturistico1 + dencidadepopulacional1 + capita1;
+   A02=(float) populacao2 + area2 + pib2 + pontoturistico2 + dencidadepopulacional2 + capita2;
+   A03=(float) populacao3 + area3 + pib3 + pontoturistico3 + dencidadepopulacinal3 + capita3;
+   A04=(float) populacao4 + area4 + pib4 + pontoturistico4 + densidadepopulacional4 + capita4;
+  
+  B01=(float) populacao01 + area01 + pib01 + pontoturistico01 + dencidadepopulacional01 + capita01;
+  B02=(float) populacao02 + area02 + pib02 + pontoturistico02 + dencidadepopulacional02 + capita02;
+  B03=(float) populacao03 + area03 + pib03 + pontoturistico03 + dencidadepopulacinal03 + capita03;
+  B04=(float) populacao04 + area04 + pib04 + pontoturistico04 + densidadepopulacional04 + capita04;
+  
+  C01=(float) populacao001 + area001 + pib001 + pontoturistico001 + dencidadepopulacional001 + capita001;
+  C02=(float) populacao002 + area002 + pib002 + pontoturistico002 + dencidadepopulacional002 + capita002;
+  C03=(float) populacao003 + area003 + pib003 + pontoturistico003 + dencidadepopulacinal003 + capita003;
+  C04=(float) populacao004 + area004 + pib004 + pontoturistico004 + densidadepopulacional004 + capita004;
+  
+  D01=(float) populacao0001 + area0001 + pib0001 + pontoturistico0001 + dencidadepopulacional0001 + capita0001;
+  D02=(float) populacao0002 + area0002 + pib0002 + pontoturistico0002 + dencidadepopulacional0002 + capita0002;
+  D03=(float) populacao0003 + area0003 + pib0003 + pontoturistico0003 + dencidadepopulacinal0003 + capita0003;
+  D04=(float) populacao0004 + area0004 + pib0004 + pontoturistico0004 + densidadepopulacional0004 + capita0004;
+  
+  
+  E01=(float) populacao00001 + area00001 + pib00001 + pontoturistico00001 + dencidadepopulacional00001 + capita00001;
+  E02=(float)populacao00002 + area00002 + pib00002 + pontoturistico00002 + dencidadepopulacional00002 + capita00002;
+  E03=(float)populacao00003 + area00003 + pib00003 + pontoturistico00003 + dencidadepopulacinal00003 + capita00003;
+  E04=(float)populacao00004 + area00004 + pib00004 + pontoturistico00004 + densidadepopulacional00004 + capita00004;
+  
+  
+  F01=(float) populacao000001 + area000001 + pib000001 + pontoturistico000001 + dencidadepopulacional000001 + capita000001;
+  F02=(float) populacao000002 + area000002 + pib000002 + pontoturistico000002 + dencidadepopulacional000002 + capita000002;
+  F03=(float) populacao000003 + area000003 + pib000003 + pontoturistico000003 + dencidadepopulacinal000003 + capita000003;
+  F04=(float)populacao000004 + area000004 + pib000004 + pontoturistico000004 + densidadepopulacional000004 + capita000004;
+  
+  G01=(float)populacao0000001 + area0000001 + pib0000001 + pontoturistico0000001 + dencidadepopulacional0000001 + capita0000001;
+  G02=(float)populacao0000002 + area0000002 + pib0000002 + pontoturistico0000002 + dencidadepopulacional0000002 + capita0000002;
+  G03=(float)populacao0000003 + area0000003 + pib0000003 + pontoturistico0000003 + dencidadepopulacinal0000003 + capita0000003;
+  G04=(float)populacao0000004 + area0000004 + pib0000004 + pontoturistico0000004 + densidadepopulacional0000004 + capita0000004;
+  
+  H01=(float)populacao00000001 + area00000001 + pib00000001 + pontoturistico00000001 + dencidadepopulacional00000001 + capita00000001;
+  H02=(float)populacao00000002 + area00000002 + pib00000002 + pontoturistico00000002 + dencidadepopulacional00000002 + capita00000002;
+  H03=(float)populacao00000003 + area00000003 + pib00000003 + pontoturistico00000003 + dencidadepopulacinal00000003 + capita00000003;
+  H04=(float)populacao00000004 + area00000004 + pib00000004 + pontoturistico00000004 + densidadepopulacional00000004 + capita00000004;
+  
+  printf(" informe agora o valor original da densidade populacional calculada pelo computador ");
+  printf(" \n"); 
+  
+  printf("entre com o densidade populacional da cidade A01");
+  scanf("%.6f"), &dencidadepopulacional1;
+  printf("entre com o densidade populacional da cidade A02");
+  scanf("%.6f"), &dencidadepopulacional2;
+  printf("entre Com o densidade populacional da cidade A03");
+  scanf("%.6f"), &dencidadepopulacinal3;
+  printf("entre com o densidade populacional da cidade A04");
+  scanf("%.6f"), &densidadepopulacional4;
+  
+  
+  printf("entre com o densidade populacional da cidade B01");
+  scanf("%.6f"), &dencidadepopulacional01;
+  printf("entre com o densidade populacional da cidade B02");
+  scanf("%.6f"), &dencidadepopulacional02;
+  printf("entre com o densidade populacional da cidade B03");
+  scanf("%.6f"), &dencidadepopulacinal03;
+  printf("entre com o densidade populacional da cidade B04");
+  scanf("%.6f"), &densidadepopulacional04;
+  
+  
+  printf("entre com o densidade populacional da cidade C01");
+  scanf("%.6f"), &dencidadepopulacional001;
+  printf("entre com o densidade populacional da cidade C02");
+  scanf("%.6f"), &dencidadepopulacional002;
+  printf("entre com o densidade populacional da cidade C03");
+  scanf("%.6f"), &dencidadepopulacinal003;
+  printf("entre com o densidade populacional da cidade C04");
+  scanf("%.6f"), &densidadepopulacional004;
+  
+  
+  
+  printf("entre com o densidade populacional da cidade D01");
+  scanf("%.6f"), &dencidadepopulacional0001;
+  printf("entre com o densidade populacional da cidade D02");
+  scanf("%.6f"), &dencidadepopulacional0002;
+  printf("entre com o densidade populacional da cidade D03");
+  scanf("%.6f"), &dencidadepopulacinal0003;
+  printf("entre com o densidade populacional da cidade D04");
+  scanf("%.6f"), &densidadepopulacional0004;
+  
+  
+  printf("entre com o densidade populacional da cidade E01");
+  scanf("%.6f"), &dencidadepopulacional00001;
+  printf("entre com o densidade populacional da cidade E02");
+  scanf("%.6f"), &dencidadepopulacional00002;
+  printf("entre com o densidade populacional da cidade E03");
+  scanf("%.6f"), &dencidadepopulacinal00003;
+  printf("entre com o densidade populacional da cidade E04");
+  scanf("%.6f"), &densidadepopulacional00004;
+  
+  printf("entre com o densidade populacional da cidade F01");
+  scanf("%.6f"), &dencidadepopulacional000001;
+  printf("entre com o densidade populacional da cidade F02");
+  scanf("%.6f"), &dencidadepopulacional000002;
+  printf("entre com o densidade populacional da cidade F03");
+  scanf("%.6f"), &dencidadepopulacinal000003;
+  printf("entre com o densidade populacional da cidade F04");
+  scanf("%.6f"), &densidadepopulacional000004;
+  
+  printf("entre com o densidade populacional da cidade G01");
+  scanf("%.6f"), &dencidadepopulacional0000001;
+  printf("entre com o densidade populacional da cidade G02");
+  scanf("%.6f"), &dencidadepopulacional0000002;
+  printf("entre com o densidade populacional da cidade G03");
+  scanf("%.6f"), &dencidadepopulacinal0000003;
+  printf("entre com o densidade populacional da cidade G04");
+  scanf("%.6f"), &densidadepopulacional0000004;
+  
+  printf("entre com o densidade populacional da cidade H01");
+  scanf("%.6f"), &dencidadepopulacional00000001;
+  printf("entre com o densidade populacional da cidade H02");
+  scanf("%.6f"), &dencidadepopulacional00000002;
+  printf("entre com o densidade populacional da cidade H03");
+  scanf("%.6f"), &dencidadepopulacinal00000003;
+  printf("entre com o densidade populacional da cidade H04");
+  scanf("%.6f"), &densidadepopulacional00000004;
+  
+  printf
 
 }

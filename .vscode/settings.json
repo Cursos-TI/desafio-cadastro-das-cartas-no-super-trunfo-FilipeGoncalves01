@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "DesafiodoSupertrunfo.C": "cpp"
-    }
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
